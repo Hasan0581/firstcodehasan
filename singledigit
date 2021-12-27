@@ -1,0 +1,5 @@
+#!/bin/bash -x
+
+number=$((RANDOM%2));
+$  echo $number
+done
